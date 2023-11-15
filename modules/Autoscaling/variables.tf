@@ -90,7 +90,3 @@ variable "tags" {
   default     = {}
 }
 
-variable "ami" {
-  type        = string
-  description = "AMI ID for the launch template"
-}

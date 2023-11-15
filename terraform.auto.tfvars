@@ -31,7 +31,7 @@ ami-bastion = "ami-00a906df3d545cfda"
 ami-nginx = "ami-0be6f25ac3ac46040"
 
 
-ami-sonar = "ami-00d6c952659e3602a"
+# ami-sonar = "ami-00d6c952659e3602a"
 
 
 account_no = "352170208319"
