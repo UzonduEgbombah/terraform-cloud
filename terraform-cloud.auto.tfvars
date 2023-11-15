@@ -44,7 +44,7 @@ master-username = "Terraform"
 
 
 tags = {
-  Enviroment      = "production"
+  Environment      = "production"
   Owner-Email     = "uzonduegbombah419@gmail"
   Managed-By      = "Terraform"
   Billing-Account = "1234567890"
